@@ -149,14 +149,18 @@
       font-size:13px;
     }
 
-    button{
+    .send-btn {
       padding:7px 10px;
       border:none;
       background:#ffd54f;
       cursor:pointer;
       font-weight:700;
     }
-
+.subscribe-btn {
+  background:#ffd54f;
+  padding:7px 10px;
+  font-weight:700;
+}
     footer{
       margin-top:10px;
       padding:12px;
@@ -260,7 +264,7 @@
 <form clas="subscribe-form">
 <label for="subscribe-email">Subscribe for updates</label>
 <input type="email" id="subscribe-email" name="email" placeholder="Enter your email" required>
-<button type="submit">Subscribe</button>
+  <button class="subscribe-btn">Subscribe</button>
 </form>
 <p class="unsubscribe-note">You can unsubscribe at any time.</p>
 
@@ -291,7 +295,7 @@
             <input id="topic" name="topic" type="text" placeholder="Website, SEO, etc.">
           </div>
 
-          <button type="submit">SEND</button>
+          <button class="send-btn">Send</button>
 
           <div class="error" id="errorMsg">Error: Please fix something.</div>
 
