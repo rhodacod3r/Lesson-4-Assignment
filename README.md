@@ -21,12 +21,19 @@
 <table>
   <tr>
     <td align="center">
-<img width="300" height:auto;" alt="Job Hiring Flyer" src="https://github.com/user-attachments/assets/3373a60b-89cd-4516-ba13-08c0b56f0916" />
-      <p><strong> BrightPath Marketing Flyer</strong></p>
+      <img
+        src="https://github.com/user-attachments/assets/3373a60b-89cd-4516-ba13-08c0b56f0916"
+        width="300"
+        alt="Job Hiring Flyer">
+      <p><strong>BrightPath Marketing Flyer</strong></p>
     </td>
+
     <td align="center">
-<img width="300" height:auto;" alt="Digital Product Course Guide" src="https://github.com/user-attachments/assets/fd7e61f0-fe0e-4ac1-95d7-604423ef6490" />
-   <p><strong>Course Guide Flyer – Logo Design</strong></p>
-   </td>
+      <img
+        src="https://github.com/user-attachments/assets/fd7e61f0-fe0e-4ac1-95d7-604423ef6490"
+        width="300"
+        alt="Digital Product Course Guide">
+      <p><strong>Course Guide Flyer – Logo Design</strong></p>
+    </td>
   </tr>
 </table>
