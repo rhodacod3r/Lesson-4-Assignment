@@ -183,16 +183,23 @@
       margin-top:6px;
       display:none;
     }
-    .featured-grid {
+ .featured-grid {
   display: flex;
-  gap: 20px;           /* space between images */
+  gap: 20px;
   justify-content: center;
 }
 
 .featured-grid img {
-  width: 48%;        
+  width: 100%;
+  max-width: 600px;
   height: auto;
 }
+
+.project {
+  width: 48%;
+  text-align: center;
+}
+``
   </style>
 </head>
 
@@ -225,20 +232,26 @@
         </div>
         <section id="Featured">
         <h3>Featured Work</h3>
-<table>
-  <tr>
-    <td align="center">
-<img width="600" height="400" alt="Silk   Shears Example Flyer (600 x 400 px)" src="https://github.com/user-attachments/assets/821c17d0-d8b4-4d00-b758-922f3b9658d8" />      
-<p><strong>Silk & Shears Salon – Promotional Flyer</strong></p>
-    </td>
-    <td align="center">
-<img width="600" height="400" alt="UrbanWave Solutions Logo Example (600 x 400 px)" src="https://github.com/user-attachments/assets/5444cdde-4968-47fc-a358-c43f0dc02bde" />
+<section id="Featured">
+  <h3>Featured Work</h3>
 
-<p><strong>UrbanWave Solutions – Logo Design</strong></p>
-    </td>
-  </tr>
-</table>
-<p align="center">Designs created by BluePeak Solutions</p>
+  <div class="featured-grid">
+    <div class="project">
+      <img src="https://github.com/user-attachments/assets/821c17d0-d8b4-4d00-b758-922f3b9658d8"
+           alt="Silk & Shears Salon Promotional Flyer">
+      <p><strong>Silk & Shears Salon – Promotional Flyer</strong></p>
+    </div>
+
+    <div class="project">
+      <img src="https://github.com/user-attachments/assets/5444cdde-4968-47fc-a358-c43f0dc02bde"
+           alt="UrbanWave Solutions Logo Design">
+      <p><strong>UrbanWave Solutions – Logo Design</strong></p>
+    </div>
+  </div>
+
+  <p class="credit">Designs created by BluePeak Solutions</p>
+</section>
+
         
         <p>
           <img src="./BluePeak Solutions - Home_files/coffee.jpg" width="240" height="160">
