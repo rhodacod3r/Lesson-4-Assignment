@@ -1,3 +1,5 @@
-<img width="4830" height="6250" alt="Silk   Shears Example Flyer" src="https://github.com/user-attachments/assets/425dc687-8e7a-446b-b83d-eed84d8e55d0" />
-<img width="6250" height="6250" alt="UrbanWave Solutions Logo Example" src="https://github.com/user-attachments/assets/83d93f18-4816-4286-a9c6-47f57fe01a7b" />
+<img width="600" height="400" alt="Silk   Shears Example Flyer (600 x 400 px)" src="https://github.com/user-attachments/assets/821c17d0-d8b4-4d00-b758-922f3b9658d8" />
+
+<img width="600" height="400" alt="UrbanWave Solutions Logo Example (600 x 400 px)" src="https://github.com/user-attachments/assets/5444cdde-4968-47fc-a358-c43f0dc02bde" />
+
 
