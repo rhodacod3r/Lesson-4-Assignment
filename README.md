@@ -16,7 +16,15 @@
 <p align="center">Designs created by BluePeak Solutions</p>
 
 
-
+table>
+  <tr>
+    <td align="center">
+      <img
+        src="https://github.com/user-attachments/assets/3373a60b-89cd-4516-ba13-08c0b56f0916"
+        width="300"
+        alt="Job Hiring Flyer">
+      <p><strong>BrightPath Marketing Flyer</strong></p>
+    </td>
 
 
 <td align="center">
