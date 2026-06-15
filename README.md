@@ -16,7 +16,7 @@
 <p align="center">Designs created by BluePeak Solutions</p>
 
 
-table>
+<table>
   <tr>
     <td align="center">
       <img
